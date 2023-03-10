@@ -38,7 +38,7 @@ h2{
 } */
 .nav1{
     display: flex;
-    height: 20px;
+    height: 30px;
     align-items: center;
     justify-content:center;
     flex-direction: row;
@@ -53,7 +53,7 @@ h2{
 .nav2{
     display: flex;
     display: flex;
-    height: 20px;
+    height: 30px;
     align-items: center;
     justify-content:center;
     flex-direction: row;
